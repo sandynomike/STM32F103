@@ -7,4 +7,4 @@ make
 git-bash (for windows)
 Program to upload .elf file to the microcontroller / Blue Pill
 
-To compile, navigate to the directory (using git-bash in Windows) and type 'make'. Then upload the resulting blinky.elf program to your microcontorller or Blue Pill using STMCubeProgrammer or another similar utility.
+To compile, navigate to the directory containing main.c (using git-bash in Windows) and type 'make'. Then upload the resulting blinky.elf program to your microcontorller or Blue Pill using STMCubeProgrammer or another similar utility.
